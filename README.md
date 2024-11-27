@@ -1,1 +1,1 @@
-# Implementation-and-Simulation-of-the-DVG-Algorithm
+# Implementation-and-Simulation-of-the-DVR-Algorithm
